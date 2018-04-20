@@ -139,7 +139,7 @@ To add your own below, just [edit](https://github.com/wwdc/2018/edit/master/READ
 |[Vincenzo Aceto](https://github.com/vinzaceto)|[GitHub](https://github.com/vinzaceto/WWDCPlayground)|[YouTube](https://youtu.be/cvkEDOhAg4w)| UIKit, AVFoundation, Vision, CoreML | Submitted |
 |[Walter Zhu](https://www.walterzhu.com/)|||UIKit, CoreGraphics, PlaygroundBooks| Submitted|
 |[Wei Dai](https://github.com/zjdavid)|[GitHub](https://github.com/zjdavid/Trajector)||UIKit Dynamics, GameplayKit, AVFoundation|Submitted|
-|[Weiran Du](http://www.williamdu.space/)|||UIKit, CoreGraphics| Submitted|
+|[Weiran Du](http://www.williamdu.space/)||[Youtube](https://www.youtube.com/watch?v=gHZuYHE78yw)|UIKit, CoreGraphics, RecursionAI|Accepted|
 |William Taylor| | [YouTube](https://youtu.be/qXgyTGIG_Xw) | SpriteKit, ARKit, AVFoundation, UIKit | Submitted | 
 |[Yash Banka](https://github.com/yash-banka/)|[GitHub](https://github.com/yash-banka/WWDC18)||UIKit, Foundation, AVFoundation, PlaygroundBook|Submitted|
 |[Yichen Cao](https://schemetrical.github.io)|[GitHub](https://github.com/Schemetrical)|| UIKit, CoreML |Submitted|
